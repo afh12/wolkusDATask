@@ -1,0 +1,7 @@
+Q3. If you have to validate the above model in the field how would you design an experiment to do so. What factors or variables will you collect and how many samples would you need? What all resources would be required to carry out the experiment?
+
+A: If I have to validate the above asked model in the field I would design an expirement as follows:
+
+Step 1: We will e require a team who will manually check the accuracy of our model by maintaining log for each risk level evaluation by model and manual evaluation by them using the given conditions and similarly check the spray scheduling is correct or not manually.
+Step 2: We will have a team of specialists and experts of agriculture field who will evaluate whether the used logic model is appropriate with their real time experimental results on the crops or not.
+Step 3: Based on results from both the teams in step 1 and 2 we will have the evaluation model at last
