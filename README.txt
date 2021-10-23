@@ -2,7 +2,7 @@ I have used MongoDB + Node.js for solving Question 1 and have used MySQL workben
 
 Descriptions of files submitted in the github repository:
 
-1) CodeInIPYNb.ipynb: 
+1) FinalSolutionCode.ipynb: 
 
 - Is a jupyter notebook file in which the python code for the risk model is written.
 
@@ -34,3 +34,10 @@ Descriptions of files submitted in the github repository:
  
 - Contains exported output of SQL2.sql 
 
+8) FinalSolutionCode.pdf:
+
+- pdf format of the FinalSolutionCode.ipynb file
+
+9) Task1.js
+
+- JavaScript file containing solution for question 1.
